@@ -1,5 +1,5 @@
 # Black-Midi-Render
-
+An attempt to try to check out the source code of zenith
 ## Creating a plugin project:
 - Create a new class library project
 - Add references to: BMEngine project, PresentationCore, PresentationFramework, OpenTK (through nuget)
